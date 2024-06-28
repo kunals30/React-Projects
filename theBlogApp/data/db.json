@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "body": "In the digital age, where words and ideas flow freely across the vast expanse of the internet, I decided to embark on a journey of self-expression and creativity by creating my very first blog. The decision to start a blog was not merely about joining the online community but also about discovering the power of words and connecting with like-minded individuals who share my passions and interests. This essay will delve into my motivations, challenges, and the exhilarating experiences that came with my first venture into the blogosphere.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "The excitement of new beginnings is a feeling that's hard to match. Whether it's starting a new job, moving to a new city, or beginning a new phase of life, there's something truly special about the anticipation and the sense of adventure. Recently, I had the pleasure of experiencing an unforgettable welcome party that not only made me feel cherished but also highlighted the importance of community and friendship in this new chapter of my life.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Kunal: the musician",
+      "body": "Music has the incredible ability to set the mood for any occasion, and the live acoustic band did just that. Their soulful melodies and lively tunes filled the air, creating a cheerful atmosphere. People swayed to the music, and soon enough, some were even dancing under the open sky. Laughter and conversation flowed freely, breaking down barriers and forging connections.",
+      "author": "Kunal shinde",
+      "id": 3
+    },
+    {
+      "title": "rev,jbvjv",
+      "body": "erfj4thvkgh",
+      "author": "erkgjk5g",
+      "id": 4
+    }
+  ]
+}

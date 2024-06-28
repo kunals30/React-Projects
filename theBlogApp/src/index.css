@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+
+.Navbar{
+    color: #f1356d;
+    display:flex;
+    align-items: center;
+    gap:400px;   
+}
+
+.Navbar h1{
+    margin-left: 200px;
+}
+.links{
+    color: black;
+}
+.links ul{
+    list-style:none;
+    display: flex;
+    gap: 50px;
+}
+.links ul li{
+    cursor:pointer;
+}
+.links ul li:hover{
+    color: #f1356d;
+}
+
+.links ul li a{
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
+
+.blog-preview{
+    padding:10px 16px;
+    margin: 20px 0;
+    border-bottom: 1px solid #fafafa;
+}
+.blog-preview:hover{
+    box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+}
+.blog-preview h2{
+    font-size: 20px;
+    color: #f1356d;
+    margin-bottom: 8px;
+}
+.blog-preview a{
+    text-decoration: none;
+    color: inherit;
+}
+.blog-details h2{
+    color: #f1356d;
+}
+
+.blog-details button{
+    background-color: #f1356d;
+    color: #fff;
+    border: 0;
+    padding:8px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.blog-details button:hover{
+    background-color: #fff;
+    color: #f1356d;
+}
+
+/* Create a new blog from here */
+.create{
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+.create label{
+    text-align: left;
+    display: block;
+}
+.create h2{
+    font-size: 20px;
+    color: #f1356d;
+    margin-bottom: 30px;
+}
+.create input, .create textarea, .create select{
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+}
+.create button{
+    background: #f1356d;
+    color: #ffff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.create button:hover{
+    background-color: #fff;
+    color: #f1356d;
+}
+
+
+/* Not found */
+.not-found p, a{
+    margin-bottom: 20px;
+}
+.not-found a{
+    background-color: #f1356d;
+    text-decoration: none;
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 10px;
+}
+.home{
+    text-align: center;
+}
