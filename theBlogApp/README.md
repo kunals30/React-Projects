@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Use npx json-server --watch data/db.json --port 8000 to fetch the blog data
 
 ### `npm start`
 
